@@ -1,0 +1,15 @@
+//
+//  TTTCosmosBeauty-Prefix.pch
+//  TTTCosmosBeauty
+//
+
+#ifndef TTTCosmosBeauty_Prefix_pch
+#define TTTCosmosBeauty_Prefix_pch
+
+#import "TTTProgressHud.h"
+#import "UIView+Toast.h"
+#import "TTTRtcManager.h"
+
+#define TTTManager [TTTRtcManager manager]
+
+#endif /* TTTCosmosBeauty_Prefix_pch */

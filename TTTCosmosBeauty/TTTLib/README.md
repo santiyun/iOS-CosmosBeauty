@@ -1,0 +1,1 @@
+下载 [TTTRtcEngineKit.framework](https://github.com/santiyun/iOS-LiveSDK) 和 [TTTPlayerKit.framework](https://github.com/santiyun/TTTPlayerKit_iOS) 放在 **TTTLib** 目录中
